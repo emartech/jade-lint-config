@@ -1,0 +1,19 @@
+{
+  "name": "jade-lint-config-emarsys",
+  "version": "1.0.0",
+  "description": "jade-lint Rules for Emarsys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emartech/jade-lint-config.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emartech/jade-lint-config/issues"
+  },
+  "homepage": "https://github.com/emartech/jade-lint-config#readme"
+}
