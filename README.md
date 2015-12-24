@@ -1,12 +1,12 @@
-# jade-lint-config
+# pug-lint-config
 
 ## Usage
 
 ```sh
-$ npm i -D gulp-jade-lint jade-lint-config-emarsys
+$ npm i -D gulp-pug-lint pug-lint-config-emarsys
 ```
 
-Then add it to your .jade-lintrc
+Then add it to your .pug-lintrc
 
 ```
 {
