@@ -1,6 +1,6 @@
 {
   "name": "pug-lint-config-emarsys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pug-lint Rules for Emarsys",
   "main": "index.js",
   "scripts": {
