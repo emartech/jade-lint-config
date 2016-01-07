@@ -1,8 +1,6 @@
 module.exports = {
-  "disallowClassAttributeWithStaticValue": true,
   "disallowClassLiteralsBeforeIdLiterals": true,
   "disallowDuplicateAttributes": true,
-  "disallowIdAttributeWithStaticValue": true,
   "disallowMultipleLineBreaks": true,
   "requireClassLiteralsBeforeAttributes": true,
   "requireIdLiteralsBeforeAttributes": true,
